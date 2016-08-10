@@ -1,6 +1,6 @@
 # Site settings
-name: Travelogue
-description: 'A minimal, single-column Jekyll theme that provides an immersive read experience for your readers'
+name: Mars Hill Forum
+description: 'In an intellectual way it seeks to understand and challenge postmodern culture.'
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://marshillforum.org' # the base hostname & protocol for your site
