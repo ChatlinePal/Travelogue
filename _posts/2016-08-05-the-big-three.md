@@ -19,4 +19,5 @@ Mighty Zeus was chosen to rule over all of the gods and all of the earth and all
 He had a home high on Mount Olympus, but he is usually live in Underworld, where people go when they died. Hades' job was to run things down in the Underworld. He have a faithful and deeply loved companion, his three-headed dog, Cerberus.
 
 ## Lord of the Sea
+![Sample Image](http://marshillforum.org/assets/images/Poseidon_sculpture_Copenhagen_2005.jpg)
 Poseidon had deep blue eyes and streaming green hair. He was moody and restless and powerful. He could magically make an island appear, or a tidal wave cover the shoreline, or send a wave to suck you right off the beach. All it took was a wave of his hand! 
