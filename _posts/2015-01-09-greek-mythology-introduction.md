@@ -19,13 +19,13 @@ The magical world of the ancient Greek gods was a world full of bickering, fight
 
 * Zeus: the king of all the gods and god of weather, law and fate
 2. Hera: the queen of the gods and goddess of women and marriage
-Aphrodite (Venus): goddess of beauty and love
-Apollo (Apollo): god of prophesy, music and poetry and knowledge
-Ares (Mars): god of war
-Artemis: goddess of hunting, animals and childbirth
-Athena: goddess of wisdom and defense
-Demeter: goddess of agriculture and grain
-Dionysos: god of wine, pleasure and festivity
-Hephaistos: god of fire, metalworking and sculpture
-Hermes: god of travel, hospitality and trade and Zeus’s personal messenger
+3. Aphrodite (Venus): goddess of beauty and love
+4. Apollo (Apollo): god of prophesy, music and poetry and knowledge
+5. Ares (Mars): god of war
+6. Artemis: goddess of hunting, animals and childbirth
+7. Athena: goddess of wisdom and defense
+8. Demeter: goddess of agriculture and grain
+9. Dionysos: god of wine, pleasure and festivity
+10. Hephaistos: god of fire, metalworking and sculpture
+11. Hermes: god of travel, hospitality and trade and Zeus’s personal messenger
 Poseidon: god of the sea
