@@ -5,7 +5,7 @@ date: 2016-08-12
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/vanilla.jpeg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/morning.jpeg
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/the-bridge.jpeg
+thumb: http://marshillforum.org/assets/images/456498844_7df7bd518b_b.jpg
 categories: travel city
 tags: Olympians
 ---
