@@ -11,7 +11,7 @@ tags: greek myths introduction
 
 Greek mythology is the body of myths and teachings that belong to the ancient Greeks, concerning their gods and heroes, the nature of the world, and the origins and significance of their own cult and ritual practices. --- Wikipedia.org
 
-Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
+The magical world of the ancient Greek gods was a world full of bickering, fights, compromise, fear, fun, punishment, hatred and love. It based on the fact that gods, like mortal men, could be punished or rewarded for their actions.
 
 ![Sample Image](http://placehold.it/360x360)
 
