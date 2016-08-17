@@ -28,4 +28,4 @@ The magical world of the ancient Greek gods was a world full of bickering, fight
 9. Dionysos: god of wine, pleasure and festivity
 10. Hephaistos: god of fire, metalworking and sculpture
 11. Hermes: god of travel, hospitality and trade and Zeus’s personal messenger
-Poseidon: god of the sea
+12. Poseidon: god of the sea
