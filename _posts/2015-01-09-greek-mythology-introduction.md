@@ -4,7 +4,7 @@ title: "Introduction of Greek Mythology"
 date: 2015-01-09
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
-thumb: http://marshillforum.org/assets/images/4566118648_d448194c63_b.jpg
+thumb: http://marshillforum.org/assets/images/Poseidon_sculpture_Copenhagen_2005.jpg
 category: music
 tags: greek myths introduction
 ---
