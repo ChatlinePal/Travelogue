@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "The Big Three"
-date: 2015-08-05
+date: 2016-08-05
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/tube.jpg
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/chemex.jpg
-categories: travel city
-tags: japan winter spring metropolis
+thumb: http://marshillforum.org/assets/images/Figino.jpg
+categories:  Zeus, Poseidon, Hades
+tags:  Zeus, Poseidon, and Hades
 ---
 
 **Lorem ipsum** dolor sit amet, consectetur adipiscing elit. _Ut porta_, felis eget vehicula `porttitor`, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
