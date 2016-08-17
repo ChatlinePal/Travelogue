@@ -15,5 +15,17 @@ The magical world of the ancient Greek gods was a world full of bickering, fight
 
 ![Sample Image](http://placehold.it/360x360)
 
-## Donec imperdiet
-Donec imperdiet accumsan faucibus. Nullam faucibus luctus quam, a dapibus neque aliquam quis. Aenean sit amet risus vitae lectus fermentum dapibus. Integer sit amet porttitor nisl. Etiam ac elit purus. Sed vulputate hendrerit euismod. Sed accumsan sem at eros tempor volutpat. Nam iaculis, leo sit amet viverra placerat, ante tortor fringilla erat, ac finibus nunc purus et lectus. Ut eu justo vulputate, tempus odio sed, mattis felis. Proin mollis dolor at sapien condimentum lobortis. Praesent non massa elementum, rutrum dui sit amet, feugiat velit. In a felis sit amet quam ultrices dignissim. Ut efficitur velit at purus placerat, eu finibus est pharetra. Aenean id molestie risus. Mauris gravida erat id diam condimentum viverra.
+## The twelve main Olympians are:
+
+Zeus: the king of all the gods and god of weather, law and fate
+Hera: the queen of the gods and goddess of women and marriage
+Aphrodite (Venus): goddess of beauty and love
+Apollo (Apollo): god of prophesy, music and poetry and knowledge
+Ares (Mars): god of war
+Artemis: goddess of hunting, animals and childbirth
+Athena: goddess of wisdom and defense
+Demeter: goddess of agriculture and grain
+Dionysos: god of wine, pleasure and festivity
+Hephaistos: god of fire, metalworking and sculpture
+Hermes: god of travel, hospitality and trade and Zeus’s personal messenger
+Poseidon: god of the sea
