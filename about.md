@@ -8,7 +8,7 @@ Mars Hill is the Roman name for a hill in Athens, Greece, called the Hill of Are
 
 Another legend says that the hill was the site of the trial of Orestes for killing his stepmother and her lover, Clytemnestra and Aegisthus.
 
-** Contact us
+## Contact us
 
 Please drop a line should you have any questions.
 Mail: marshill@gmail.com
