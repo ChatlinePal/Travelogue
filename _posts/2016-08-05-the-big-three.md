@@ -9,14 +9,14 @@ categories:  Zeus, Poseidon, Hades
 tags:  Zeus, Poseidon, and Hades
 ---
 
-**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. _Ut porta_, felis eget vehicula `porttitor`, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
+There were three very important brothers in the ancient Greek god world - Zeus, Hades, and Poseidon. Each of them ruled over some part of the universe. Zeus was the king of all the gods. Hades ran the Underworld. Poseidon was the Lord of the Sea.
 
-> Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
 
-## Donec imperdiet
-Donec imperdiet accumsan faucibus. Nullam faucibus luctus quam, a dapibus neque aliquam quis. Aenean sit amet risus vitae lectus fermentum dapibus. Integer sit amet porttitor nisl. Etiam ac elit purus. Sed vulputate hendrerit euismod. Sed accumsan sem at eros tempor volutpat. Nam iaculis, leo sit amet viverra placerat, ante tortor fringilla erat, ac finibus nunc purus et lectus. Ut eu justo vulputate, tempus odio sed, mattis felis. Proin mollis dolor at sapien condimentum lobortis. Praesent non massa elementum, rutrum dui sit amet, feugiat velit. In a felis sit amet quam ultrices dignissim. Ut efficitur velit at purus placerat, eu finibus est pharetra. Aenean id molestie risus. Mauris gravida erat id diam condimentum viverra.
+## King of all the gods
+Mighty Zeus was chosen to rule over all of the gods and all of the earth and all of the heavens. He had many magical powers. He could shape shift and make himself look and sound like anybody. He could throw his lightning bolts and do all kinds of damage. He also had powers that came from being king of all the gods. These were powers of government. 
 
-## Etiam placerat
-Etiam placerat est sed quam semper scelerisque. Suspendisse quis malesuada dolor, eget convallis ipsum. Vivamus elementum luctus diam, eu malesuada eros vulputate sed. Sed ultricies lacinia sodales. Nullam egestas auctor mauris vel mollis. Curabitur vel risus vitae felis cursus convallis eget et magna. Nullam vel purus vel ante porta faucibus id suscipit dolor. Cras posuere, dolor nec suscipit egestas, dui sem eleifend enim, sit amet ornare nunc enim non orci. Donec aliquet magna sed felis consectetur, dictum tincidunt ipsum lobortis. Nulla efficitur est sed auctor eleifend.
+## Underworld ruler
+He had a home high on Mount Olympus, but he is usually live in Underworld, where people go when they died. Hades' job was to run things down in the Underworld. He have a faithful and deeply loved companion, his three-headed dog, Cerberus.
 
-Donec facilisis magna in sapien convallis auctor. In porttitor neque magna, ut aliquet diam mollis mattis. Praesent iaculis enim nisl, sit amet molestie nunc rutrum ut. Sed tincidunt dolor eget lacinia interdum. Morbi blandit, augue nec pharetra posuere, odio tortor congue magna, sed dictum libero nunc quis mi. Donec feugiat massa tortor, id tincidunt velit scelerisque sed. Suspendisse lacinia diam id lectus dignissim, sit amet eleifend elit rutrum. Mauris nunc sapien, ultrices sed vehicula sed, efficitur nec leo.
+## Lord of the Sea
+Poseidon had deep blue eyes and streaming green hair. He was moody and restless and powerful. He could magically make an island appear, or a tidal wave cover the shoreline, or send a wave to suck you right off the beach. All it took was a wave of his hand! 
