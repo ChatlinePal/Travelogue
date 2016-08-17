@@ -15,6 +15,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget ve
 
 ![Sample Image](<iframe width="560" height="315" src="https://www.youtube.com/embed/gGD1K3i1xRU" frameborder="0" allowfullscreen></iframe>)
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/gGD1K3i1xRU/0.jpg)](http://www.youtube.com/watch?v=gGD1K3i1xRU)
+
 Nulla sollicitudin nibh a magna malesuada, vitae dictum tellus mollis. Etiam sit amet justo massa. Integer sed mi volutpat, sollicitudin orci eget, tincidunt tellus. Mauris vitae vestibulum mi.
 
 ## Donec imperdiet
