@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Greek Mythology"
+title: "Greek Mythology1"
 date: 2015-02-06
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
