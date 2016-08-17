@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Snowy Day"
+title: "Greek Mythology Family Tree"
 date: 2015-01-10
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/on-the-road.jpeg
@@ -11,9 +11,7 @@ category: photography
 tags: mountain snow nature
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porta, felis eget vehicula porttitor, mauris ipsum tincidunt ligula, ac pretium risus sapien at metus. Donec pellentesque volutpat porttitor. Integer condimentum sagittis viverra. Vivamus suscipit quis lectus porta sollicitudin.
-
-![Sample Image](<iframe width="560" height="315" src="https://www.youtube.com/embed/gGD1K3i1xRU" frameborder="0" allowfullscreen></iframe>)
+Discover the legends and myths surrounding the gods and goddesses that were worshipped in the religions of the Ancient Greeks and Romans. Interesting facts and information in this illustrated guide to the Roman and Greek Gods and Goddesses and their mythology and legends. Articles on the legends and mythology of the first, ancient gods and goddesses, the Titans, the Olympians and the minor goddesses known as nymphs. 
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/gGD1K3i1xRU/0.jpg)](http://www.youtube.com/watch?v=gGD1K3i1xRU)
 
