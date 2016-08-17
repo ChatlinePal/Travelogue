@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Home of the Gods"
-date: 2016-08-12
+date: 2016-08-02
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/vanilla.jpeg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/morning.jpeg
