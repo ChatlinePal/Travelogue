@@ -11,7 +11,7 @@ tags: greek myths introduction
 
 Greek mythology is the body of myths and teachings that belong to the ancient Greeks, concerning their gods and heroes, the nature of the world, and the origins and significance of their own cult and ritual practices. --- Wikipedia.org
 
-The magical world of the ancient Greek gods was a world full of bickering, fights, compromise, fear, fun, punishment, hatred and love. It based on the fact that gods, like mortal men, could be punished or rewarded for their actions.
+The magical world of the ancient Greek gods was a world full of bickering, fights, compromise, fear, fun, punishment, hatred and love. It based on the fact that gods, like mortal men, could be punished or rewarded for their actions. It were said to live on Mount Olympus, the highest mountain in Greece.
 
 ![Sample Image](https://upload.wikimedia.org/wikipedia/commons/d/d4/Carracci_-_Jupiter_et_Junon.jpeg)
 
