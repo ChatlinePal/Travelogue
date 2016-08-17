@@ -20,4 +20,4 @@ He had a home high on Mount Olympus, but he is usually live in Underworld, where
 
 ## Lord of the Sea
 ![Sample Image](http://marshillforum.org/assets/images/Poseidon_sculpture_Copenhagen_2005.jpg)
-Poseidon had deep blue eyes and streaming green hair. He was moody and restless and powerful. He could magically make an island appear, or a tidal wave cover the shoreline, or send a wave to suck you right off the beach. All it took was a wave of his hand! 
+Poseidon had deep blue eyes and streaming green hair. He was moody and restless and powerful.  Additionally, he is referred to as "Earth-Shaker" due to his role in causing earthquakes, and has been called the "tamer of horses". He is usually depicted as an older male with curly hair and beard. He could magically make an island appear, or a tidal wave cover the shoreline, or send a wave to suck you right off the beach. All it took was a wave of his hand! 
