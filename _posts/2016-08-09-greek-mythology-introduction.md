@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introduction of Greek Mythology"
+title: "Greek Mythology"
 date: 2016-08-09
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
