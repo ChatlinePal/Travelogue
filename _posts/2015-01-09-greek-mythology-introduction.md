@@ -17,7 +17,7 @@ The magical world of the ancient Greek gods was a world full of bickering, fight
 
 ## The twelve main Olympians are:
 
-1. Zeus: the king of all the gods and god of weather, law and fate
+* Zeus: the king of all the gods and god of weather, law and fate
 2. Hera: the queen of the gods and goddess of women and marriage
 Aphrodite (Venus): goddess of beauty and love
 Apollo (Apollo): god of prophesy, music and poetry and knowledge
