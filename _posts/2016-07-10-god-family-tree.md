@@ -6,7 +6,7 @@ backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/on-the-road.jpeg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/freezing.jpeg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/village.jpeg
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/peak.jpeg
+thumb: http://marshillforum.org/assets/images/greece.jpg
 category: photography
 tags: mountain snow nature
 ---
