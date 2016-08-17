@@ -5,7 +5,7 @@ date: 2015-02-06
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/the-desk.jpg
-thumb: https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/thumbs/coding.jpg
+thumb: http://marshillforum.org/assets/images/Ares_Ludovisi_Altemps_Inv8602_n4.jpg
 categories: development work
 tags: greek myths,
 ---
