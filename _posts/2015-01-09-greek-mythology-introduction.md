@@ -13,7 +13,7 @@ Greek mythology is the body of myths and teachings that belong to the ancient Gr
 
 The magical world of the ancient Greek gods was a world full of bickering, fights, compromise, fear, fun, punishment, hatred and love. It based on the fact that gods, like mortal men, could be punished or rewarded for their actions.
 
-![Sample Image](https://upload.wikimedia.org/wikipedia/commons/6/6b/Belvedere_Apollo_Pio-Clementino_Inv1015_n3.jpg)
+![Sample Image](https://upload.wikimedia.org/wikipedia/commons/d/d4/Carracci_-_Jupiter_et_Junon.jpeg)
 
 ## The twelve main Olympians
 
